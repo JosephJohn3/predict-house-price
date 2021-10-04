@@ -1,1 +1,2 @@
-# predict-house-price
+## predict-house-price
+This dataset was derived from the 1990 U.S. census, using one row per census block group. A block group is the smallest geographical unit for which the U.S. Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people). This dataset consists of 20,640 samples and 9 features. Hence creating an algorithm to predict prices in those region
